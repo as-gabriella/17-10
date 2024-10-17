@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; /* altera a fonte */
+    text-align: center; /* alinha o texto */
+    margin-top: 50px;  /* adiciona margem no topo */
+}
+
+h1{
+color: hsl(327, 100%, 63%);/* troca a cor da fonte */
+}
+
+button{
+    padding: 10px 20px; /* adiciona margem interna */
+    font-size: 16px; /* alterna o tamanho da fonte */
+    cursor: pointer; /* faz o cursor virar uma "mãozinha" */
+    background-color: rgb(249, 166, 210) 176, 218;
+    color: rgb(255, 212, 235);/* altera a cor da fonte */
+    border: none; /* retira a borda*/
+    border-radius: 5px; /* faz os cantos ficarem arrendondados */
+}
+
+button:hover {
+    background-color: rgb(239, 151, 210);
+}
+
+#texto {
+    font-size: 18px; /* alterna o tamanho da fonte */
+    margin-bottom: 20px; /* adiciona uma margem embaixo */
+}
+
